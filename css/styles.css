@@ -1,0 +1,35 @@
+
+.jumbotron
+{
+  height: 28em;
+  padding-top: 5em;
+  background-color: #304;
+  background-image: url("../img/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+}
+img
+{
+  display: block;
+  margin: auto;
+}
+.alert-info
+{
+  padding: 1.5em;
+}
+.panel-footer
+{
+  background-color:black;
+  font-size: 12px;
+  color: #999;
+  margin-top: 3em;
+}
+.border
+{
+    border-style: none none none solid;
+    border-width: 1px;
+    border-color: gray;
+    padding-left: 2em;
+}
