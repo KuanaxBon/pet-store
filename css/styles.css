@@ -1,4 +1,22 @@
+nav
+{
+  padding-left: 25px;
+  padding-top: 15px;
+}
+.navbar-brand
+{
+  font-family:  'Satisfy', cursive;
 
+}
+.logo-color
+{
+  font-size: 25px;
+  color: #ff827b !important;
+}
+.navLink
+{
+  color: #007FFF !important;
+}
 .jumbotron
 {
   height: 28em;
@@ -18,6 +36,7 @@ img
 .alert-info
 {
   padding: 1.5em;
+  border-radius: 5px;
 }
 .panel-footer
 {
